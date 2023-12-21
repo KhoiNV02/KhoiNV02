@@ -12,7 +12,7 @@
 
 </div>
 <h3 align="left">Some fact about me:</h3>
-<p><b>Fact1:</b>"Một câu bé lười biếng luôn tìm cách dễ nhất để giải quyết vấn để, làm việc với châm ngôn giải quyết vấn đề trước và rồi từ từ tìm cách tối ưu nó sau nếu cần thiết."</p>
+<p><b>Fact1:</b>"Một câu bé lười biếng luôn tìm cách dễ nhất để giải quyết vấn đề, làm việc với châm ngôn giải quyết vấn đề trước và rồi từ từ tìm cách tối ưu nó sau nếu cần thiết."</p>
 <p><b>Fact2:</b>"Cuộc sống là một đường chạy dài. Tôi nhìn phía trước và thấy bạn, wow bạn chạy tốt thật đấy! Phải cố duy trì đi nha nếu không sớm muộn gì tôi cũng sẽ vượt qua bạn."</p>
 <p><b>Fact3:</b>"Thỉnh thoảng hãy quay đầu lại, phía sau còn rất nhiều điều đấy."</p>
 <h3 align="left">Languages and Tools:</h3>
