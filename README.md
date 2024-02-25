@@ -4,7 +4,7 @@
 <div style="display: flex;justify-content: space-around;"> 
 <ul>
   <li>🔭 I am currently a fourth-year student at . **University of Information Technology**</li>
-  <li>🌱 I’m currently learning **HTML,CSS,Javascripts(Handlebars.js, Mongoose, Socket.IO), Nodejs (ExpressJS), C#**</li>
+  <li>🌱 I’m currently learning **ReactJS,HTML,CSS,Javascripts(Handlebars.js, Mongoose, Socket.IO), Nodejs (ExpressJS), C#**</li>
   <li>📫 How to reach me **khoikakaka123@gmail.com**</li>
   <li>⚡ Fun fact **If you can do it, that's fine. I'll let you handle it.**</li>
   <img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" alt="" style="width: 50%; height: auto;text-align: center;"> 
